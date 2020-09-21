@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative "../lib/user.rb"
-require_relative "../lib/teacher.rb"
+require_relative "..//teacher.rb"
 require_relative "../lib/student.rb"
 
 steve = Student.new
